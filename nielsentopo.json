@@ -1710,7 +1710,7 @@
             "latitude": 32.702473,
             "tvperc": 83.9,
             "dma": 623,
-            "dma1": "Dallas-Ft. Worth TX",
+            "dma1": "Dallas-Ft Worth TX",
             "cableperc": 48.5,
             "adsperc": 36.2,
             "longitude": -97.098903
@@ -2380,7 +2380,7 @@
             "latitude": 26.5720265,
             "tvperc": 94.9,
             "dma": 571,
-            "dma1": "Ft. Myers-Naples FL",
+            "dma1": "Ft Myers-Naples FL",
             "cableperc": 62.5,
             "adsperc": 33.5,
             "longitude": -81.6230635
@@ -2408,7 +2408,7 @@
             "latitude": 35.5031505,
             "tvperc": 89.5,
             "dma": 670,
-            "dma1": "Ft. Smith-Fayetteville-Springdale-Rogers AR",
+            "dma1": "Ft Smith-Fayetteville-Springdale-Rogers AR",
             "cableperc": 51.1,
             "adsperc": 38.7,
             "longitude": -94.202877
@@ -2434,7 +2434,7 @@
             "latitude": 41.0334615,
             "tvperc": 79,
             "dma": 509,
-            "dma1": "Ft. Wayne IN",
+            "dma1": "Ft Wayne IN",
             "cableperc": 45.1,
             "adsperc": 34.3,
             "longitude": -85.1430895
@@ -4760,7 +4760,7 @@
             "latitude": 31.1061175,
             "tvperc": 91,
             "dma": 686,
-            "dma1": "Mobile AL-Pensacola (Ft. Walton Beach) FL",
+            "dma1": "Mobile AL-Pensacola (Ft Walton Beach) FL",
             "cableperc": 51.7,
             "adsperc": 39.8,
             "longitude": -87.6151775
@@ -8864,7 +8864,7 @@
             "latitude": 27.096694,
             "tvperc": 96.8,
             "dma": 548,
-            "dma1": "West Palm Beach-Ft. Pierce FL",
+            "dma1": "West Palm Beach-Ft Pierce FL",
             "cableperc": 71.6,
             "adsperc": 26.8,
             "longitude": -80.6271745
